@@ -4,8 +4,8 @@ A full-stack appointment booking application for small clinics, built with React
 
 ## 🚀 Live Demo
 
-- **Frontend URL**: [Deploy to Vercel/Netlify]
-- **API URL**: [Deploy to Render/Railway]
+- **Frontend URL**: [Vercel](https://clinic-booking1-git-main-tusharsharma5347s-projects.vercel.app?_vercel_share=6Tb0TtMqikYb1jULjkYJm3vrNeIGQHay)
+- **API URL**: [Render](https://clinic-booking-fz75.onrender.com)
 - **Test Credentials**:
   - **Patient**: `patient@example.com` / `Passw0rd!`
   - **Admin**: `admin@example.com` / `Passw0rd!`
